@@ -107,10 +107,6 @@ function addKeyPressHandler() {
     });
 }
 
-function setNo() {
-    return no_box.innerHTML = i;
-}
-
 function initializeEvents() {
     'use strict';
     var thumbnails = getThumbnailsArray();
